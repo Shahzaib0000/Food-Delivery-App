@@ -1,0 +1,22 @@
+body{
+    background: none;
+}
+.title{
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+#btn3{
+    text-decoration: none;
+    color: green;
+}
+#btn3:hover{
+    color: white;
+    
+}
+.dishcard{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}

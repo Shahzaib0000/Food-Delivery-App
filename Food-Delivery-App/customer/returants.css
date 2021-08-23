@@ -1,0 +1,42 @@
+.resturants{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+.navbar{
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
+#btn1{
+    text-decoration: none;
+    color: green;
+}
+#btn1:hover{
+    color: white;
+    
+}
+#btn2{
+    text-decoration: none;
+    color: black;
+}
+#btn2:hover{
+    color:green;
+    
+}
+#sarchBar{
+    width: 200px;
+}
+.title{
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+
+
+
+
+
+
+
+

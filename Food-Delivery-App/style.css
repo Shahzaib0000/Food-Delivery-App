@@ -1,0 +1,94 @@
+body{
+    background-image: url("./Images/artem-kryzhanivskyi-hljBIjzKNmI-unsplash.jpg");
+    background-size: cover;
+    opacity: 0.7;
+}
+
+.empty{
+    width: 100%;
+    height: 1000px;
+}
+.container-fluid{
+    background-color:#f3f2f2;
+}
+
+#navbarSupportedContent{
+    float: right;
+    text-align: center;
+    margin: none;
+    z-index: 2;
+}
+.title{
+    font-family:sans-serif;
+    font-size: 30px;
+    font-weight: bold;
+}
+#btn1{
+    text-decoration: none;
+    color: green;
+}
+#btn1:hover{
+    color: white;
+    
+}
+#btn2{
+    text-decoration: none;
+    color: green;
+}
+#btn2:hover{
+    color: white;
+    
+}
+#btn3{
+    text-decoration: none;
+    color: green;
+}
+#btn3:hover{
+    color: white;
+    
+}
+#btn4{
+    text-decoration: none;
+    color: green;
+}
+#btn4:hover{
+    color: white;
+    
+}
+.footer-div{
+    background-color: black;
+    padding: 30px 0;
+    margin: 1px;
+}
+.footer-text{
+    font-family: "brandon";
+}
+.footer-logo{
+    margin-bottom: 20px;
+    padding: 20px;
+    margin: 20px;
+    width: 230px;
+    height: 230px; 
+}
+.footer-input::placeholder{
+    color: white;
+}
+.footer-head{
+    font-weight: bold;
+    font-family: "brandon";
+    margin-bottom: 20px;
+    font-size: 30px;
+    color: rgb(255, 0, 0);
+}
+.footer-link{
+    text-decoration: none;
+    color: white;
+    font-weight: 600;
+    font-size: 20px;
+    line-height: 40px;
+    display: block;
+}
+.footer-link:hover{
+    text-decoration: none;
+    color: black;
+}
